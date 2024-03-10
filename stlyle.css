@@ -1,0 +1,29 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+body
+{
+    background-size: cover;
+}
+
+button
+{
+    background-color: orange;
+    color: rgb(255, 255, 255);
+}
+
+canvas
+{
+    height: auto;
+    width: auto;
+}
