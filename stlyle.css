@@ -24,6 +24,6 @@ button
 
 canvas
 {
-    height: auto;
-    width: auto;
+    border: 5px solid rgb(255, 255, 255);
+    border-radius: 20px;
 }
